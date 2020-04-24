@@ -1,0 +1,127 @@
+It is the best of times, 
+it is the worst of times, 
+it is the age of wisdom, 
+it is the age of foolishness, 
+it is the epoch of belief, 
+it is the epoch of incredulity, 
+it is the season of Light, 
+it is the season of Darkness, 
+it is the spring of hope, 
+it is the winter of despair, 
+we had everything before us, 
+we had nothing before us, 
+we were all going direct to heaven, 
+we were all going direct the other way - 
+in short, the period is so far like the present period, 
+that some of its noisiest authorities insisted on its being received, 
+for good or for evil, 
+in the superlative degree of comparison only. 
+-- Charles Dickens, A Tale of Two Cities 
+
+
+
+constructor of Shape
+constructor of Shape
+constrcutor of Rectangle
+constructor of Shape
+constrcutor of Circle
+constructor of Shape
+constrcutor of Rectangle
+constrcutor of Square
+area of Shape:0
+area of Rectangle:6
+area of Circle:28.26
+area of Square:6
+epoch
+the
+we had everything before us, 
+we had nothing before us, 
+we were all going direct to heaven, 
+that some of its noisiest authorities insisted on its being received, 
+for good or for evil, 
+-- Charles Dickens, A Tale of Two Cities
+-- Charles Dickens, A Tale of Two Cities
+It was the best of times, 
+for good or for evil, 
+in short, the period was so far like the present period, 
+in the superlative degree of comparison only.
+it was the age of foolishness, 
+it was the age of wisdom, 
+it was the epoch of belief, 
+it was the epoch of incredulity, 
+it was the season of Darkness, 
+it was the season of Light,
+it was the spring of hope, 
+it was the winter of despair, 
+it was the worst of times, 
+that some of its noisiest authorities insisted on its being received, 
+we had everything before us, 
+we had nothing before us, 
+we were all going direct the other way -
+we were all going direct to heaven, 
+ occurs 2 times
+a occurs 1 time
+age occurs 2 times
+all occurs 2 times
+authorities occurs 1 time
+before occurs 2 times
+being occurs 1 time
+belief occurs 1 time
+best occurs 1 time
+charles occurs 1 time
+cities occurs 1 time
+comparison occurs 1 time
+darkness occurs 1 time
+degree occurs 1 time
+despair occurs 1 time
+dickens occurs 1 time
+direct occurs 2 times
+epoch occurs 2 times
+everything occurs 1 time
+evil occurs 1 time
+far occurs 1 time
+foolishness occurs 1 time
+for occurs 2 times
+going occurs 2 times
+good occurs 1 time
+had occurs 2 times
+heaven occurs 1 time
+hope occurs 1 time
+in occurs 2 times
+incredulity occurs 1 time
+insisted occurs 1 time
+it occurs 10 times
+its occurs 2 times
+light occurs 1 time
+like occurs 1 time
+noisiest occurs 1 time
+nothing occurs 1 time
+of occurs 13 times
+on occurs 1 time
+only occurs 1 time
+or occurs 1 time
+other occurs 1 time
+period occurs 2 times
+present occurs 1 time
+received occurs 1 time
+season occurs 2 times
+short occurs 1 time
+so occurs 1 time
+some occurs 1 time
+spring occurs 1 time
+superlative occurs 1 time
+tale occurs 1 time
+that occurs 1 time
+the occurs 14 times
+times occurs 2 times
+to occurs 1 time
+two occurs 1 time
+us occurs 2 times
+was occurs 11 times
+way occurs 1 time
+we occurs 4 times
+were occurs 2 times
+winter occurs 1 time
+wisdom occurs 1 time
+worst occurs 1 time
+Program ended with exit code: 0
